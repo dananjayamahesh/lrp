@@ -7,7 +7,7 @@ Build All
 
 Outcome
 -------------------
-* This script  donload and install lrp and all required dependencies.
+* This script  download and install LRP and all required dependencies.
 * If the script ask you to install libxml2, please check if the libxml2 is exists and give Y/y to install the libxml2.
 * For more information please see the readme file of lrp project [here](https://github.com/dananjayamahesh/primesim/blob/dimp/README.md).
 
@@ -16,8 +16,6 @@ Directory  Structure
 * lrp/
 	* primesim/
 	* software/
-		* ompi/
-		* pin/
 
 How to run
 -----------
